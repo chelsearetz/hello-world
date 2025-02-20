@@ -1,3 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub flow.
-Currently enjoying a warm fire on a snowy day while my dog snoozes!
+This is where we will track all updates to development and bugs for the Q2 Nike sprint.
+
