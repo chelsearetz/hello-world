@@ -1,3 +1,3 @@
-NIKE - Just Do It
+NIKE 
 
-
+Just Do It.
