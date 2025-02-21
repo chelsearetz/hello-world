@@ -1,4 +1,4 @@
 
 NIKE
-Just Do It.
+
 
