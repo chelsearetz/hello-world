@@ -1,4 +1,4 @@
 
-NIKE - just do it.
+NIKE
 
 
